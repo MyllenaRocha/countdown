@@ -1,0 +1,16 @@
+body{
+    background-color:  #eee;
+    font-family: Arial, sans-serif;
+}
+#countdown-timer {
+font-size: 2em;
+font-weight: bold;
+text-align: center;
+margin-top: 50px;
+}
+
+#message {
+font-size: 1.5em;
+text-align: center;
+margin-top: 20px;
+}
